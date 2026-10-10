@@ -1,0 +1,11 @@
+﻿Resume filename,Matched skills,Missing skills,Match percentage,Analysis status
+fictional_resume_01.pdf,"Python, SQL, REST API, Git, Flask","Java, HTML, CSS, GitHub, Django, Machine Learning, Generative AI, OOP",38,Analyzed
+fictional_resume_02.pdf,"HTML, CSS, REST API, GitHub","Python, Java, SQL, Git, Django, Flask, Machine Learning, Generative AI, OOP",31,Analyzed
+fictional_resume_03.pdf,"Python, SQL, Git, Machine Learning","Java, HTML, CSS, REST API, GitHub, Django, Flask, Generative AI, OOP",31,Analyzed
+fictional_resume_04.pdf,"Java, SQL, REST API, GitHub, OOP","Python, HTML, CSS, Git, Django, Flask, Machine Learning, Generative AI",38,Analyzed
+fictional_resume_05.pdf,"Python, Git, Machine Learning, Generative AI","Java, SQL, HTML, CSS, REST API, GitHub, Django, Flask, OOP",31,Analyzed
+fictional_resume_06.pdf,"Python, SQL, HTML, CSS, Django","Java, REST API, Git, GitHub, Flask, Machine Learning, Generative AI, OOP",38,Analyzed
+fictional_resume_07.pdf,"Java, SQL, REST API, Git, OOP","Python, HTML, CSS, GitHub, Django, Flask, Machine Learning, Generative AI",38,Analyzed
+fictional_resume_08.pdf,"Python, HTML, CSS, REST API, GitHub, Flask","Java, SQL, Git, Django, Machine Learning, Generative AI, OOP",46,Analyzed
+fictional_resume_09.pdf,"Python, SQL, Machine Learning, Generative AI, OOP","Java, HTML, CSS, REST API, Git, GitHub, Django, Flask",38,Analyzed
+fictional_resume_10.pdf,"Python, Java, SQL, REST API, Git, Django, OOP","HTML, CSS, GitHub, Flask, Machine Learning, Generative AI",54,Analyzed
